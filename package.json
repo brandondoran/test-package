@@ -1,6 +1,6 @@
 {
   "name": "@brandondoran/test-package",
-  "version": "0.0.1",
+  "version": "2.0.0",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -25,7 +25,10 @@
     "typescript": "^4.0.3"
   },
   "release": {
-    "branches": ["master", "next"],
+    "branches": [
+      "master",
+      "next"
+    ],
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
