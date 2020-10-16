@@ -1,3 +1,16 @@
+# [2.1.0](https://github.com/brandondoran/test-package/compare/v2.0.3...v2.1.0) (2020-10-16)
+
+
+### Bug Fixes
+
+* **ci:** remove branch restriction on release job ([f393798](https://github.com/brandondoran/test-package/commit/f393798ecd77790ad36d899363c3a9af618b9ec5))
+
+
+### Features
+
+* add 2nd feature ([2e03201](https://github.com/brandondoran/test-package/commit/2e03201d860bd60b607e83553d1d4c64c24a83eb))
+* first feature of beta ([78bd9b9](https://github.com/brandondoran/test-package/commit/78bd9b9021ea3a51e2e3ae540e430e53029c2b08))
+
 ## [2.0.3](https://github.com/brandondoran/test-package/compare/v2.0.2...v2.0.3) (2020-10-16)
 
 
