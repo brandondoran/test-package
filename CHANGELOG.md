@@ -1,3 +1,10 @@
+# [2.1.0-beta.2](https://github.com/brandondoran/test-package/compare/v2.1.0-beta.1...v2.1.0-beta.2) (2020-10-16)
+
+
+### Features
+
+* add 2nd feature ([2e03201](https://github.com/brandondoran/test-package/commit/2e03201d860bd60b607e83553d1d4c64c24a83eb))
+
 # [2.1.0-beta.1](https://github.com/brandondoran/test-package/compare/v2.0.1...v2.1.0-beta.1) (2020-10-16)
 
 
